@@ -1,6 +1,9 @@
 <p align=center>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Jamosf.Jamosf" alt="visitor badge"/> 
-<a href="https://jamosf.github.io/"><img src="https://img.shields.io/badge/博客-@Jamosf-fd6f32.svg?style=flat&colorA=0083ea"></a>
+<a href="https://jamosf.github.io/"><img src="https://img.shields.io/badge/blog-@Jamosf-fd6f32.svg?style=flat&colorA=0083ea"></a>
+</p>
+
+<p align=center>
 <a href="https://www.zhihu.com/people/jia-mo-si"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-@Jamosf-fd6f32.svg?style=flat&colorA=0083ea"></a>
 <a href="https://www.jianshu.com/u/725d5292c006"><img src="https://img.shields.io/badge/简书-@Jamosf-fd6f32.svg?style=flat&colorA=0083ea"></a>
 <a href="http://blog.sina.com.cn/jiamosi"><img src="https://img.shields.io/badge/新浪-@Jamosf-fd6f32.svg?style=flat&colorA=0083ea"></a>
